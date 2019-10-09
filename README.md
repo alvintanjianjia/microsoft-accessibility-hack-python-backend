@@ -2,7 +2,7 @@
 This project runs the backend flask server, where it accepts an audio file, carries out analysis on the audio file, and returns the corresponding output results in a response.
 
 ## Prerequisites
-1. Amazon AWS Account
+1. Azure Account
 2. PostgreSQL
 
 ## Setting Up
